@@ -23,8 +23,8 @@ I like solving messy problems with clarity, structure, and fast, thoughtful exec
 ---
 
 ## Tech Stack
-**AI / LLMs:** OpenAI, Groq, LangChain, vector DBs, RAG, evals  
+**AI / LLMs:** OpenAI, Groq, LangChain, vector DBs, RAG, evals
 **Backend:** Python, FastAPI, SAP ABAP
-**Data:** SQL, Power BI, SAC, AfO 
-**Enterprise:** SAP S/4HANA Public Cloud, BW/4HANA  
-**Tools:** GitHub Actions, Docker, VS Code  
+**Data:** SQL, Power BI, SAC, AfO
+**Enterprise:** SAP S/4HANA Public Cloud, BW/4HANA
+**Tools:** GitHub Actions, Docker, VS Code
